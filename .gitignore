@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+env/
+.venv/
+.venv/*
+venv/
+.venv/
+.venv/*
+*.env
+
+# Logs and data
+*.log
+*.json
+*.csv
